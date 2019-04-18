@@ -1,0 +1,15 @@
+.center {
+    text-align: center
+}
+.width {
+    width: 100%
+}
+.login {
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 516px;
+    max-width: 100%;
+    padding: 0px 35px 15px 35px;
+    margin: 120px auto;
+}
